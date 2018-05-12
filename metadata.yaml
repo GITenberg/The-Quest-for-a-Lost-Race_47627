@@ -1,10 +1,16 @@
 _repo: The-Quest-for-a-Lost-Race_47627
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47627-h/images/cover.jpg
 creator:
   author:
     agent_name: Pickett, Thomas E.
     gutenberg_agent_id: '44401'
     url: http://www.gutenberg.org/2009/agents/44401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47627#The-Quest-for-a-Lost-Race
 gutenberg_issued: '2014-12-11'
 gutenberg_type: Text
 identifiers:
